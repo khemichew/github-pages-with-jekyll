@@ -1,5 +1,5 @@
 ---
-title: Day 1
+title: "Day 1"
 date: 2021-12-23
 ---
 
